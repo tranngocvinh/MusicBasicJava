@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "325980300231",
+    "firebase_url": "https://musicapp-cfdec-default-rtdb.firebaseio.com",
+    "project_id": "musicapp-cfdec",
+    "storage_bucket": "musicapp-cfdec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325980300231:android:da15b1424548607cdf6fe2",
+        "android_client_info": {
+          "package_name": "com.example.music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBte-b_Ihjk4JhFQGwBrR9Xm5NPw19uoYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
