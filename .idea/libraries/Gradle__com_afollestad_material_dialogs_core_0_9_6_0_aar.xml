@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.afollestad.material-dialogs:core:0.9.6.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7e88753480339822e53bf689a5d3d549/transformed/jetified-core-0.9.6.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7e88753480339822e53bf689a5d3d549/transformed/jetified-core-0.9.6.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7e88753480339822e53bf689a5d3d549/transformed/jetified-core-0.9.6.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6b4fd58c4e621f376c50df8b25beb6cb/transformed/jetified-core-0.9.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6b4fd58c4e621f376c50df8b25beb6cb/transformed/jetified-core-0.9.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6b4fd58c4e621f376c50df8b25beb6cb/transformed/jetified-core-0.9.6.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad.material-dialogs/core/0.9.6.0/1f5fdc64937994aee6b42d7cb50657cb12629538/core-0.9.6.0-javadoc.jar!/" />
